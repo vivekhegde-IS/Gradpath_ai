@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Technical University of Munich",
+    "country": "Germany",
+    "min_gpa": 3.5,
+    "max_budget": 5000,
+    "courses": ["Computer Science", "Engineering"]
+  },
+  {
+    "name": "Stanford University",
+    "country": "USA",
+    "min_gpa": 3.8,
+    "max_budget": 60000,
+    "courses": ["AI", "Business", "Physics"]
+  },
+  {
+    "name": "University of Toronto",
+    "country": "Canada",
+    "min_gpa": 3.4,
+    "max_budget": 35000,
+    "courses": ["Data Science", "Psychology"]
+  },
+  {
+    "name": "ETH Zurich",
+    "country": "Switzerland",
+    "min_gpa": 3.6,
+    "max_budget": 3000,
+    "courses": ["Robotics", "Architecture"]
+  },
+  {
+    "name": "University of Melbourne",
+    "country": "Australia",
+    "min_gpa": 3.2,
+    "max_budget": 40000,
+    "courses": ["Medicine", "Law"]
+  },
+  {
+    "name": "Imperial College London",
+    "country": "UK",
+    "min_gpa": 3.7,
+    "max_budget": 30000,
+    "courses": ["Medicine", "Computing"]
+  },
+  {
+    "name": "National University of Singapore",
+    "country": "Singapore",
+    "min_gpa": 3.6,
+    "max_budget": 25000,
+    "courses": ["Business Administration", "Engineering"]
+  },
+  {
+    "name": "Tsinghua University",
+    "country": "China",
+    "min_gpa": 3.8,
+    "max_budget": 10000,
+    "courses": ["Computer Science", "Materials Science"]
+  },
+  {
+    "name": "Delft University of Technology",
+    "country": "Netherlands",
+    "min_gpa": 3.3,
+    "max_budget": 15000,
+    "courses": ["Aerospace Engineering", "Design"]
+  },
+  {
+    "name": "KTH Royal Institute of Technology",
+    "country": "Sweden",
+    "min_gpa": 3.2,
+    "max_budget": 12000,
+    "courses": ["Sustainable Energy", "Software Engineering"]
+  },
+  {
+    "name": "McGill University",
+    "country": "Canada",
+    "min_gpa": 3.5,
+    "max_budget": 30000,
+    "courses": ["Neurology", "Music"]
+  },
+  {
+    "name": "University of Tokyo",
+    "country": "Japan",
+    "min_gpa": 3.7,
+    "max_budget": 8000,
+    "courses": ["Economics", "Public Policy"]
+  },
+  {
+    "name": "Sorbonne University",
+    "country": "France",
+    "min_gpa": 3.1,
+    "max_budget": 4000,
+    "courses": ["Humanities", "Geology"]
+  },
+  {
+    "name": "KAIST",
+    "country": "South Korea",
+    "min_gpa": 3.4,
+    "max_budget": 7000,
+    "courses": ["Industrial Design", "Mechanical Engineering"]
+  },
+  {
+    "name": "RWTH Aachen University",
+    "country": "Germany",
+    "min_gpa": 3.2,
+    "max_budget": 2000,
+    "courses": ["Mechanical Engineering", "Civil Engineering"]
+  },
+  {
+    "name": "Monash University",
+    "country": "Australia",
+    "min_gpa": 3.0,
+    "max_budget": 38000,
+    "courses": ["Nursing", "Education"]
+  },
+  {
+    "name": "Harvard University",
+    "country": "USA",
+    "min_gpa": 3.9,
+    "max_budget": 65000,
+    "courses": ["Law", "Government", "Medicine"]
+  },
+  {
+    "name": "UBC",
+    "country": "Canada",
+    "min_gpa": 3.3,
+    "max_budget": 32000,
+    "courses": ["Sustainability", "Forestry"]
+  },
+  {
+    "name": "Karlsruhe Institute of Technology",
+    "country": "Germany",
+    "min_gpa": 3.3,
+    "max_budget": 3000,
+    "courses": ["Informatics", "Mathematics"]
+  },
+  {
+    "name": "University of Edinburgh",
+    "country": "UK",
+    "min_gpa": 3.5,
+    "max_budget": 28000,
+    "courses": ["History", "Philosophy"]
+  }
+]
